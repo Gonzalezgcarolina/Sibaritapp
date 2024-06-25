@@ -1,0 +1,7 @@
+{
+  "name": "Sibaritapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
